@@ -1,0 +1,1 @@
+This repository contains the Python code for the algorithms proposed in Chapter 9 - Dimensionality Reduction for Imbalanced Learning - of the book "Learning from Imbalanced Data Sets" by Fernandez et al. (Springer).
